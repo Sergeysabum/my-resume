@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "D:\\projects"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "My resume"
+  }
+}
